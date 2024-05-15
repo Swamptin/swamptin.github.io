@@ -5,7 +5,7 @@ maintaining them. Life got in the way. These things do happen, and that's okay
 too. This is a renewed attempt at creating something.
 
 As it happens my tastes and goals have changed since I launched my
-[swamptin.ie](swamptin.ie) blog. This means I feel the need to use another blog
+[swamptin.ie](http://www.swamptin.ie) blog. This means I feel the need to use another blog
 altogether to try and do this a bit better. So what is this? This is a blog in 
 which I will explore languages and tools for specific needs or interests. There
 is no set goal per say of this blog. I am a jack of all trades. I like learning
