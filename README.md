@@ -1,6 +1,4 @@
-# List of all posts
-
-### Who am I?
+# Who am I?
 
 I'm just some guy, you know? 
 
@@ -10,4 +8,6 @@ doubt I ever will to be fair, there's too much that interesting. I've wanted a
 blog, somewhere to explore tech publicly, for years. I've always struggled with
 overly complex solutions for me needs. This might work though.
 
-- [What is this about?](goals.md)
+### List of all posts
+
+- 15/May/24: [What is this about?](goals.md)
