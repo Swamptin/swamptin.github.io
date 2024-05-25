@@ -12,8 +12,16 @@ you to the next problem, or shows you the error details to help you debug the is
 The rather verbose error messages from Rust are very helpful for the most part. I do find that sometimes they can be a little intense, but if you take the time to
 sit with them you can usually see the solution clearly in front of you. It's one of the best learning tools for learning the language.
 
-## Exercises 00 - 02
+## Exercises 00 - 02 - Nothing to Calculator
+The opening sections are very enjoyable and quick enough to get through. It introduces you to the potential layout of a rust file without forcing you to write it
+from scratch. Whether this is a good way to learn or not really depends on the student. I know I sometimes enjoy just writing out the full file and learning that
+way. But if you want to be introduced to concepts slowly and work up, that's exactly what this poject seems to be doing.
 
+The one exercise from this section that strikes me as very interesting is 2.5 which is about factorials. You're tasked with writing a method that will return the
+factorial of any number using only what you've learned so far. What makes this such an interesting challenge is that at this point you haven't learned anything about
+loops. This particular exercise caught my by surprise for it's perceived complexity. If you're taking this on, I hope you enjoy this one.
 
-
+The first two chapters were really enjoyable and I thoroughly enjoyed working my through them this evening. I would strongly recommend giving this a go if it's
+something you're on the fence about. It does tackle some seeming complex concepts. But the written sections clearly explain what you need to know or where to go
+looking for your answers.
 
