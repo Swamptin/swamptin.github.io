@@ -21,7 +21,11 @@ The one exercise from this section that strikes me as very interesting is 2.5 wh
 factorial of any number using only what you've learned so far. What makes this such an interesting challenge is that at this point you haven't learned anything about
 loops. This particular exercise caught my by surprise for it's perceived complexity. If you're taking this on, I hope you enjoy this one.
 
-The first two chapters were really enjoyable and I thoroughly enjoyed working my through them this evening. I would strongly recommend giving this a go if it's
-something you're on the fence about. It does tackle some seeming complex concepts. But the written sections clearly explain what you need to know or where to go
+The first two chapters were really enjoyable and I felt like I accomplished a lot working my through them this evening. I would strongly recommend giving this a go if it's
+something you're on the fence about. It does tackle some seemingly complex concepts, (integer overflows and recursion appear early) for what is an intro to a language. But the written sections clearly explain what you need to know or where to go
 looking for your answers.
 
+## Verdict so far
+I feel like this tool, similar to many others I've seen, is another "Rust for existing developers" solution. It's really well written VMs seems to suit my learning style so far. But I don't know if it's a good solution for someone learning to choose from scratch. I benefited from at least having a rudimentary understanding of concepts. 
+
+Will I keep going with this? Yes. I hope to cover all 100 exercises. Who knows, maybe I'll get through them in a timely manner too! I'll keep writing about it either way. I like this language, I want to use it. I hope I've found a way to learn it that sticks. It's definitely less intimidation that reading Rust By Example. 
