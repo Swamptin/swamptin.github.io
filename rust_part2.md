@@ -20,3 +20,5 @@ those errors are relayed to you when you try to compile the code.
 The real issue here is about reading and understanding. I am currently learning to slow down and be sure of what I've read. This isn't aided by others rushing
 through things. It turns out I'm no good when I rush. As a point, I have returned to exercise 03-05 about a week later and have just completed it, and it's certainly
 reinvigorated. Let's see if I can't finish out chapter 3 tonight.
+
+[Home](README.md)
