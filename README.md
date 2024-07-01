@@ -8,6 +8,12 @@ doubt I ever will to be fair, there's too much that's interesting. I've wanted a
 blog, somewhere to explore tech publicly, for years. I've always struggled with
 overly complex solutions for my needs. This might work though.
 
+This blog at the moment will be mostly about my journey learning Rust. Why am I
+learning Rust? It's fun. Work is a four letter word and isn't really fun at the
+moment. Rust isn't really useful for getting work. It may have been a few years
+ago, but now? Now it's just fun. Nobody is hiring for it. I can just enjoy learning
+in those brief moments where I have time to try.
+
 ### List of all posts
 
 - 15/May/24: [What is this about?](goals.md)
