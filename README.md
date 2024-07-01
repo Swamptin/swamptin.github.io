@@ -12,3 +12,4 @@ overly complex solutions for my needs. This might work though.
 
 - 15/May/24: [What is this about?](goals.md)
 - 25/May/24: [Learning Rust Part1](rust_part1.md)
+- 01/July/24: [Learning Rust Part2](rust_part2.md)
