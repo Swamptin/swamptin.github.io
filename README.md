@@ -20,3 +20,4 @@ in those brief moments where I have time to try.
 - 25/May/24: [Learning Rust Part1](rust_part1.md)
 - 01/July/24: [Learning Rust Part2](rust_part2.md)
 - 11/July/24: [Learning Rust Part3](rust_part3.md)
+- 13/July/24: [Learning Rust Part4](rust_part4.md)
