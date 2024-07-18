@@ -22,3 +22,4 @@ in those brief moments where I have time to try.
 - 11/July/24: [Learning Rust Part3](rust_part3.md)
 - 13/July/24: [Learning Rust Part4](rust_part4.md)
 - 14/July/24: [Learning Rust Part5](rust_part5.md)
+- 18/July/24: [Learning Rust Part6](rust_part6.md)
