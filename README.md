@@ -2,17 +2,16 @@
 
 I'm just some guy, you know?
 
-I go by Swamptin on Mastodon. I've been working in tech for 8 years now. I've
-tried my hand a lot of things but I've yet to find that "one true thing". I
-doubt I ever will to be fair, there's too much that's interesting. I've wanted a
-blog, somewhere to explore tech publicly, for years. I've always struggled with
-overly complex solutions for my needs. This might work though.
+I go by Swamptin on Mastodon. I've been working in tech for 8 years now. I've tried my hand a lot of things but I've yet to find that "one true thing". I doubt I
+ever will to be fair, there's too much that's interesting. I've wanted a blog, somewhere to explore tech publicly, for years. I've always struggled with overly
+complex solutions for my needs. This might work though.
 
-This blog at the moment will be mostly about my journey learning Rust. Why am I
-learning Rust? It's fun. Work is a four letter word and isn't really fun at the
-moment. Rust isn't really useful for getting work. It may have been a few years
-ago, but now? Now it's just fun. Nobody is hiring for it. I can just enjoy learning
-in those brief moments where I have time to try.
+This blog at the moment will be mostly about my journey learning Rust. Why am I learning Rust? It's fun. Work is a four letter word and isn't really fun at the
+moment. Rust isn't really useful for getting work. It may have been a few years ago, but now? Now it's just fun. Nobody is hiring for it at my level. I can just
+enjoy learning in those brief moments where I have time to try.
+
+I feel compelled to stress, this is not a 'How to...' it's a 'How I...' I include frustrated rants, glaring attacks of the blindingly obvious, and various other
+instances where I'm definitely not portraying myself as anything other than what I am. Someone who likes to code, gets frustrated, and then finds the solution.
 
 ### List of all posts
 
