@@ -22,3 +22,4 @@ instances where I'm definitely not portraying myself as anything other than what
 - 13/July/24: [Learning Rust Part4](rust_part4.md)
 - 14/July/24: [Learning Rust Part5](rust_part5.md)
 - 18/July/24: [Learning Rust Part6](rust_part6.md)
+- 18/Feb/25: [Relearning Java Part 1](java_part1.md)
